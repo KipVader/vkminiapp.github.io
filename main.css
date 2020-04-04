@@ -3,3 +3,10 @@ p.centre{
     align-items: center;
     justify-content: center;
 }
+div.YMaps > div{
+    width: 100% !important;
+}
+
+div.YMaps > div > ymaps{
+    width: 100% !important;
+}
